@@ -4,9 +4,12 @@
 
 using namespace std;
 
+//Made by StarLith.
+
+
 void Sorting()
 {
-    cout << "Lütfen 3 sayı giriniz: \n";
+    cout << "Lütfen 3 adet sayı giriniz: \n";
     int x, y, z, MinSayi, MaxSayi;
     cin >> x >> y >> z;
     if (x > y && x > z)
